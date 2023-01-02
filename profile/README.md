@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/SilkePilon/youdotcom/"><img src="https://github.com/SilkePilon/youdotcom/blob/main/youdotcom.png?raw=true" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/SilkePilon/youdotcom/"><img src="https://github.com/YouAPI/.github/blob/main/profile/YouAPI.png?raw=true" alt="Markdownify" width="200"></a>
   <br>
   <br>
   YouAPI
