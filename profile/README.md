@@ -20,7 +20,7 @@
 <!-- ![screenshot](https://raw.githubusercontent.com/SilkePilon/youdotcom/main/assets/images/YouDotCom.jpg) -->
 
 ## About
-Welcome to the YouAPI repository!
+**Welcome to the YouAPI repository!**
 
 The YouAPI repository is a community-driven project that provides access to various APIs and libraries for interacting with the You.com platform. It is an unofficial collection of tools and resources that have been created and maintained by members of the You.com community.
 
