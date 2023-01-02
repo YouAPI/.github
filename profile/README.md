@@ -45,7 +45,7 @@ To get started with the YouAPI repository, simply choose the API or library that
 
 
 ## Discord
-In addition to the YouDotCom Python Library, we also have an active [Discord server](https://discord.gg/SD7wZMFSvV) where you can chat with developers and get help with using the library. Our Discord community is a great place to ask questions, share your projects, and get feedback from other developers.
+In addition to the YouAPI, we also have an active Discord server where users can chat with developers and get help with using the APIs and libraries. Our Discord community is a great place to ask questions, share your projects, and get feedback from other developers.
 
 
 ## Credits
