@@ -13,7 +13,6 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#key-features">Key Features</a> •
   <a href="#credits">Credits</a> •
 </p>
 
@@ -34,14 +33,6 @@ To get started with the YouAPI repository, simply choose the API or library that
 > by Chat GPT
 
 
-## Key Features
-* Bypass CloudFlare
-* Interact with YouChat
-* Find code examples
-* Server ready
-  - Supports non-gui operating systems.
-* Cross platform
-  - Windows, macOS and Linux ready.
 
 
 ## Discord
