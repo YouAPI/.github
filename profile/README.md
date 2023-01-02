@@ -32,7 +32,10 @@ To get started with the YouAPI repository, simply choose the API or library that
 
 > by Chat GPT
 
-
+* Python
+  - [YouDotCom](https://github.com/YouAPI/YouDotCom)
+* JavaScript
+  - Soon!
 
 
 ## Discord
