@@ -10,42 +10,27 @@
 
 <h4 align="center">An unofficial collection of <a href="http://you.com/" target="_blank">you.com</a> api's and libraries made by the community.</h4>
 
-<div align="center">
-
-  [![Python Version](https://img.shields.io/pypi/pyversions/youdotcom.svg)](https://pypi.org/project/youdotcom/)
-  [![Dependencies Status](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)](https://github.com/silkepilon/youdotcom/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aapp%2Fdependabot)
-
-  [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-  [![Security: bandit](https://img.shields.io/badge/security-bandit-green.svg)](https://github.com/PyCQA/bandit)
-  [![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/silkepilon/youdotcom/blob/master/.pre-commit-config.yaml)
-  [![Semantic Versions](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--versions-e10079.svg)](https://github.com/silkepilon/youdotcom/releases)
-  [![License](https://img.shields.io/github/license/silkepilon/youdotcom)](https://github.com/silkepilon/youdotcom/blob/master/LICENSE)
-  ![Coverage Report](assets/images/coverage.svg)
-  
-</div>
 
 <p align="center">
   <a href="#about">About</a> •
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#install">Install</a> •
   <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
 </p>
 
 <!-- ![screenshot](https://raw.githubusercontent.com/SilkePilon/youdotcom/main/assets/images/YouDotCom.jpg) -->
 
 ## About
-Welcome to the YouDotCom Python Library!
+Welcome to the YouAPI repository!
 
-This library allows users to easily access and utilize all of the functionality of the You.com platform through a simple and intuitive Python interface. With the library, users can access a variety of You.com apps and services, including but not limited to:
+The YouAPI repository is a community-driven project that provides access to various APIs and libraries for interacting with the You.com platform. It is an unofficial collection of tools and resources that have been created and maintained by members of the You.com community.
 
-* YouChat
-* YouCode
+With the YouAPI repository, you can access a range of You.com services and functionality through simple, easy-to-use interfaces. Whether you are a developer looking to build integrations with the You.com platform or a user looking to automate tasks, the YouAPI repository has something to offer.
 
-To get started with the YouDotCom Python Library, simply <a href="#install">install</a> the package using pip and import it into your Python script. From there, you can use the provided functions and classes to easily interact with the You.com platform.
+To get started with the YouAPI repository, simply choose the API or library that best fits your needs and follow the provided documentation. We hope you find the YouAPI helpful and we welcome any feedback or contributions from the community.
 
-We hope you enjoy using the YouDotCom Python Library and all of the features it has to offer!
+
+
+
 > by Chat GPT
 
 
