@@ -4,11 +4,11 @@
   <a href="https://github.com/SilkePilon/youdotcom/"><img src="https://github.com/SilkePilon/youdotcom/blob/main/youdotcom.png?raw=true" alt="Markdownify" width="200"></a>
   <br>
   <br>
-  YouDotCom for python
+  YouAPI
   <br>
 </h1>
 
-<h4 align="center">An unofficial python library wrapper for <a href="http://you.com/" target="_blank">you.com</a> and all of its apps.</h4>
+<h4 align="center">An unofficial collection of <a href="http://you.com/" target="_blank">you.com</a> api's and libraries made by the community.</h4>
 
 <div align="center">
 
